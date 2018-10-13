@@ -15,4 +15,4 @@
 - [ ] Further customize and style the card
 - [ ] Add a button that will toggle hiding and showing the answer choices
 
-<img src="" width="200" height="400" />  
+<img src="https://i.imgur.com/ZnVf96d.gif" width="200" height="400" />  
